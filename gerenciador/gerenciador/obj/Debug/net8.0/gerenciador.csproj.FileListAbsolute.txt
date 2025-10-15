@@ -1,0 +1,14 @@
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\gerenciador\gerenciador\bin\Debug\net8.0\gerenciador.exe
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\gerenciador\gerenciador\bin\Debug\net8.0\gerenciador.deps.json
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\gerenciador\gerenciador\bin\Debug\net8.0\gerenciador.runtimeconfig.json
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\gerenciador\gerenciador\bin\Debug\net8.0\gerenciador.dll
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\gerenciador\gerenciador\bin\Debug\net8.0\gerenciador.pdb
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\gerenciador\gerenciador\obj\Debug\net8.0\gerenciador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\gerenciador\gerenciador\obj\Debug\net8.0\gerenciador.AssemblyInfoInputs.cache
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\gerenciador\gerenciador\obj\Debug\net8.0\gerenciador.AssemblyInfo.cs
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\gerenciador\gerenciador\obj\Debug\net8.0\gerenciador.csproj.CoreCompileInputs.cache
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\gerenciador\gerenciador\obj\Debug\net8.0\gerenciador.dll
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\gerenciador\gerenciador\obj\Debug\net8.0\refint\gerenciador.dll
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\gerenciador\gerenciador\obj\Debug\net8.0\gerenciador.pdb
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\gerenciador\gerenciador\obj\Debug\net8.0\gerenciador.genruntimeconfig.cache
+C:\Users\Perol\OneDrive\Documentos\Jean\Grau\gerenciador\gerenciador\obj\Debug\net8.0\ref\gerenciador.dll
